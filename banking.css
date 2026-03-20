@@ -68,23 +68,23 @@ body {
     font-family: 'Heebo', sans-serif;
     font-size:1.5rem;
     display:inline-block;
-    padding:10px 20px;
+    padding:5px 20px;
     background-color:rgb(4, 255, 4);
     border-radius:18px;
 }
 
-.movement .withdrawal { 
+.movement .withdraw { 
     font-family: 'Heebo', sans-serif;
     font-size:1.5rem;
     display:inline-block;
-    padding:10px 20px;
+    padding:5px 20px;
     background-color:rgb(255, 0, 0);
     border-radius:18px;
 }
 
 .movement_balance { 
     font-family: 'Heebo', sans-serif;
-    font-size:1.5rem;
+    font-size:2rem;
 }
 
 
