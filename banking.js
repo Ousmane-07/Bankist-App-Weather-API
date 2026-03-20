@@ -4,3 +4,9 @@
 const account1 = [500, -600, -400, 800]
 const account2 = [-300, -100, 500, 623]
 const account3 = [724, 681, -229, 444]
+
+// DOM ELEMENTS \\
+
+const movement = document.querySelector('movement-container');
+
+// RENDER \\
